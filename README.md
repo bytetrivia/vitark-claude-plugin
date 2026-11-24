@@ -14,7 +14,7 @@ Vitark is an Indian legal research service. This plugin connects Claude to Vitar
 
 You need a Vitark account. After installing the plugin, click Connect on the Vitark connector once and sign in to Vitark. Each research call is a paid call that spends credits from your Vitark balance; checking your balance is free. Each skill tells you how many paid calls a run makes before it starts.
 
-**First run:** the first time Claude uses each Vitark tool it asks "Claude wants to use ... from Vitark" with Deny, Always allow and Allow once, so your first question can raise a few prompts. Choose **Always allow**; that tool will not ask again. You can change this later under Customize, Connectors, Vitark.
+**First run:** the first time Claude uses each Vitark tool it asks "Claude wants to use ... from Vitark" with Deny, Always allow and Allow once, so your first question can raise a few prompts. Choose **Always allow**; that tool will not ask again. You can also set the Vitark tools to **Always allow** once under Customize, Connectors, Vitark before your first question, so the first answer is less likely to stop for approvals (the choices there are Always allow, Needs approval and Blocked; we have not yet confirmed that this skips every prompt). You can change it later in the same place.
 
 Vitark finds and quotes sources. It does not give legal advice. Check important authorities against the official reports and take qualified advice before you act.
 
