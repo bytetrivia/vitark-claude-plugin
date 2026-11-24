@@ -2,12 +2,12 @@
   "name": "vitark-legal-research",
   "displayName": "Vitark",
   "description": "Indian legal research in Claude: judgments, tribunal decisions and statutory text from Vitark, with skills for research, old and new code sections, citation checks and case briefs.",
-  "version": "0.4.0",
+  "version": "0.4.1",
   "author": {
     "name": "Vitark",
     "url": "https://vitark.ai"
   },
-  "homepage": "https://vitark.ai/chatgpt#claude",
+  "homepage": "https://vitark.ai/claude",
   "repository": "https://github.com/bytetrivia/vitark-claude-plugin",
   "license": "MIT",
   "icon": "./.claude-plugin/icon.png",

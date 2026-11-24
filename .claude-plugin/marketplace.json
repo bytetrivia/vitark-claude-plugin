@@ -11,9 +11,9 @@
       "name": "vitark-legal-research",
       "source": "./plugins/vitark-legal-research",
       "description": "Indian judgments, tribunal decisions and statutory text through Vitark MCP, with skills for research, old and new code sections, citation checks and case briefs.",
-      "version": "0.4.0",
+      "version": "0.4.1",
       "license": "MIT",
-      "homepage": "https://vitark.ai/chatgpt#claude",
+      "homepage": "https://vitark.ai/claude",
       "repository": "https://github.com/bytetrivia/vitark-claude-plugin",
       "author": {
         "name": "Vitark"

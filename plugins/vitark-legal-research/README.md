@@ -27,7 +27,7 @@ Vitark finds and quotes sources. It does not give legal advice. Check important 
 
 ## Help and privacy
 
-- Setup: https://vitark.ai/chatgpt#claude
+- Setup: https://vitark.ai/claude
 - Privacy policy: https://vitark.ai/privacy
 - Terms: https://vitark.ai/terms
 - Support: ask@vitark.ai
