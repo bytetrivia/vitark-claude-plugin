@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "vitark": {
+      "type": "http",
+      "url": "https://mcp.vitark.ai/mcp"
+    }
+  }
+}
